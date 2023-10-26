@@ -4,12 +4,18 @@ This README provides an overview of the data cleaning a steps performed on the d
 
 
 Data Cleaning Methods
+
+
 Handling Missing Values
   Addressed missing values in the dataset.
   Explored the dataset's shape to ensure all missing values were removed.
+
+
 Column Cleaning: Activity
   Unified similar activities into broader categories.
   Identified and updated activities related to 'COUN,' 'SWIMMING,' 'FISHING,' 'DIVING,' and 'SHALLOW WATER.'
+
+
 Column Cleaning: Injury
   Unified similar injury descriptions into broader categories.
   Combined injuries related to 'FATAL' and 'DEATH' into 'FATAL.'
